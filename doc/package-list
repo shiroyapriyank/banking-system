@@ -1,0 +1,5 @@
+com.bank.operation
+com.bank.operation.controller
+com.bank.operation.model
+com.bank.operation.repository
+com.bank.operation.service
